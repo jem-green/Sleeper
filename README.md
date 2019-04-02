@@ -1,2 +1,2 @@
 # sleeper
-sleeper functions for Arduino
+Sleeper functions for Arduino
